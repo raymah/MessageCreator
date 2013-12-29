@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WebApi.Hal</id>
+    <version>2.0.0.5</version>
+    <title>WebApi.Hal</title>
+    <authors>Jake Ginnivan</authors>
+    <owners>Jake Ginnivan</owners>
+    <projectUrl>https://github.com/JakeGinnivan/WebApi.Hal</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Enabled Hypermedia support in Asp.net Web API using the HAL mediatype</description>
+    <releaseNotes />
+    <copyright>Copyright Jake Ginnivan 2013</copyright>
+    <language />
+    <tags>Hypermedia Asp.net WebApi Json Xml HAL</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="4.0.30506.0" />
+    </dependencies>
+  </metadata>
+</package>

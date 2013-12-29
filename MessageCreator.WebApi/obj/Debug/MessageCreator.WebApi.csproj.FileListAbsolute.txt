@@ -1,0 +1,1 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageCreator\MessageCreator.WebApi\obj\Debug\MessageCreator.WebApi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\MessageCreator.exe.config
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\MessageCreator.exe
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\MessageCreator.pdb
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\RabbitMQ.Client.dll
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\RabbitMQ.Client.xml
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\obj\Debug\MessageCreator.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\obj\Debug\MessageCreator.exe
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\obj\Debug\MessageCreator.pdb
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\Data.dll
+\\psf\home\documents\visual studio 2012\Projects\MessageCreator\MessageCreator\bin\Debug\Data.pdb
